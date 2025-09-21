@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
       - name: Fetch new quote
         run: |
-          curl -s https://api.quotable.io/random > quote.json
+          curl -ks https://api.quotable.io/random > quote.json
       - name: Update README
         run: |
           QUOTE=$(jq -r '.content' quote.json)
