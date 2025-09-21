@@ -1,0 +1,28 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: '0 0,8,16 * * *' # At 00:00, 08:00, and 16:00 UTC every day
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Fetch new quote
+        run: |
+          curl -s https://api.quotable.io/random > quote.json
+      - name: Update README
+        run: |
+          QUOTE=$(jq -r '.content' quote.json)
+          AUTHOR=$(jq -r '.author' quote.json)
+          awk -v q="$QUOTE" -v a="$AUTHOR" '/^> /{print "> \""q"\"\n> — "a; next} 1' README.md > README.tmp && mv README.tmp README.md
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update daily quote"
+          git push
