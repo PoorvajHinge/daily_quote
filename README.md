@@ -1,12 +1,20 @@
 # Daily Quote
 
-> "Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."
-> — Maya Angelou
-> "Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."
-> — Maya Angelou
-> "Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."
-> — Maya Angelou
-> "Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."
-> — Maya Angelou
+> "Real magic in relationships means an absence of judgement of others."
+> — Wayne Dyer
+> "Real magic in relationships means an absence of judgement of others."
+> — Wayne Dyer
+> "Real magic in relationships means an absence of judgement of others."
+> — Wayne Dyer
+> "Real magic in relationships means an absence of judgement of others."
+> — Wayne Dyer
+> "Real magic in relationships means an absence of judgement of others."
+> — Wayne Dyer
+> "Real magic in relationships means an absence of judgement of others."
+> — Wayne Dyer
+> "Real magic in relationships means an absence of judgement of others."
+> — Wayne Dyer
+> "Real magic in relationships means an absence of judgement of others."
+> — Wayne Dyer
 
 This README is automatically updated three times a day with a new quote from [Quotable](https://github.com/lukePeavey/quotable).
