@@ -8,5 +8,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "The fox has many tricks. The hedgehog has but one. But that is the best of all."
-> — Erasmus
+
+> "Dreams come true. Without that possibility, nature would not incite us to have them."
+> — John Updike
