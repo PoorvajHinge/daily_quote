@@ -9,5 +9,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "Dreams come true. Without that possibility, nature would not incite us to have them."
-> — John Updike
+
+> "The superior man understands what is right; the inferior man understands what will sell."
+> — Confucius
