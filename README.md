@@ -10,5 +10,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "The superior man understands what is right; the inferior man understands what will sell."
-> — Confucius
+
+> "Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other."
+> — Carrie Snow
