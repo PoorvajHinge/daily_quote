@@ -11,5 +11,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other."
-> — Carrie Snow
+
+> "Obstacles are those things you see when you take your eyes off the goal."
+> — Hannah More
