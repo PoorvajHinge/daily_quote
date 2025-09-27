@@ -14,5 +14,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "Friends are the siblings God never gave us."
-> — Mencius
+
+> "We love life, not because we are used to living but because we are used to loving."
+> — Friedrich Nietzsche
