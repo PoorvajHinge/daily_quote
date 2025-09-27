@@ -15,5 +15,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "We love life, not because we are used to living but because we are used to loving."
-> — Friedrich Nietzsche
+
+> "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose."
+> — Eknath Easwaran
