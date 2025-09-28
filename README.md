@@ -18,5 +18,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "Practice yourself, for heaven's sake in little things, and then proceed to greater."
-> — Epictetus
+
+> "The man of knowledge must be able not only to love his enemies but also to hate his friends."
+> — Friedrich Nietzsche
