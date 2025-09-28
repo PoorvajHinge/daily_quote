@@ -17,5 +17,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "Think like a man of action; act like a man of thought."
-> — Henri Bergson
+
+> "Practice yourself, for heaven's sake in little things, and then proceed to greater."
+> — Epictetus
