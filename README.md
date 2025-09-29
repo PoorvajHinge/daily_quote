@@ -21,5 +21,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "I know not age, nor weariness nor defeat."
-> — Rose Kennedy
+
+> "The man of knowledge must be able not only to love his enemies but also to hate his friends."
+> — Friedrich Nietzsche
