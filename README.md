@@ -24,5 +24,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "The thing always happens that you really believe in; and the belief in a thing makes it happen."
-> — Frank Lloyd Wright
+
+> "The fox has many tricks. The hedgehog has but one. But that is the best of all."
+> — Erasmus
