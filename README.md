@@ -22,5 +22,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "The man of knowledge must be able not only to love his enemies but also to hate his friends."
-> — Friedrich Nietzsche
+
+> "With pride, there are many curses. With humility, there come many blessings."
+> — Ezra Taft Benson
