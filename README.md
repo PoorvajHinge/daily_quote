@@ -23,5 +23,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "With pride, there are many curses. With humility, there come many blessings."
-> — Ezra Taft Benson
+
+> "The thing always happens that you really believe in; and the belief in a thing makes it happen."
+> — Frank Lloyd Wright
