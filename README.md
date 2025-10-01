@@ -27,5 +27,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "No act of kindness, no matter how small, is ever wasted."
-> — Aesop
+
+> "The only person who never makes mistakes is the person who never does anything."
+> — Denis Waitley
