@@ -26,5 +26,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "It's the little details that are vital. Little things make big things happen."
-> — John Wooden
+
+> "No act of kindness, no matter how small, is ever wasted."
+> — Aesop
