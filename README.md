@@ -32,5 +32,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart."
-> — Nelson Mandela
+
+> "It is in your moments of decision that your destiny is shaped."
+> — Tony Robbins
