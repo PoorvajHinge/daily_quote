@@ -31,5 +31,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit."
-> — Elbert Hubbard
+
+> "If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart."
+> — Nelson Mandela
