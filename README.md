@@ -34,5 +34,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours."
-> — Henry David Thoreau
+
+> "We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy."
+> — Arthur Ashe
