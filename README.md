@@ -38,5 +38,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting."
-> — George Orwell
+
+> "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good."
+> — Ralph Waldo Emerson
