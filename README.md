@@ -36,5 +36,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "For everything that lives is holy, life delights in life."
-> — William Blake
+
+> "The universe is made of stories, not atoms."
+> — Muriel Rukeyser
