@@ -41,5 +41,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "A friendship founded on business is better than a business founded on friendship."
-> — John Locke
+
+> "The truth is not for all men, but only for those who seek it."
+> — Ayn Rand
