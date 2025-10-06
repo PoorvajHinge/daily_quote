@@ -39,5 +39,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good."
-> — Ralph Waldo Emerson
+
+> "In action a great heart is the chief qualification. In work, a great head."
+> — Arthur Schopenhauer
