@@ -40,5 +40,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "In action a great heart is the chief qualification. In work, a great head."
-> — Arthur Schopenhauer
+
+> "A friendship founded on business is better than a business founded on friendship."
+> — John Locke
