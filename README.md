@@ -43,5 +43,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "Nothing great was ever achieved without enthusiasm."
-> — Ralph Waldo Emerson
+
+> "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love."
+> — Laozi
