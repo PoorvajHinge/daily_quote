@@ -44,5 +44,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love."
-> — Laozi
+
+> "If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away."
+> — John Steinbeck
