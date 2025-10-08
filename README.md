@@ -46,5 +46,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself."
-> — Henry Miller
+
+> "One man practicing sportsmanship is far better than a hundred teaching it."
+> — Knute Rockne
