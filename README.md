@@ -47,5 +47,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "One man practicing sportsmanship is far better than a hundred teaching it."
-> — Knute Rockne
+
+> "It is impossible to experience one's death objectively and still carry a tune."
+> — Woody Allen
