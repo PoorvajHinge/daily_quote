@@ -45,5 +45,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away."
-> — John Steinbeck
+
+> "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself."
+> — Henry Miller
