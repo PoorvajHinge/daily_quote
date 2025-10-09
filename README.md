@@ -50,5 +50,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "Strength does not come from physical capacity. It comes from an indomitable will."
-> — Mahatma Gandhi
+
+> "Ability will never catch up with the demand for it."
+> — Confucius
