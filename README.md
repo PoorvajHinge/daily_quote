@@ -49,5 +49,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect."
-> — Joan Didion
+
+> "Strength does not come from physical capacity. It comes from an indomitable will."
+> — Mahatma Gandhi
