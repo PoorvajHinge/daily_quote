@@ -48,5 +48,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "It is impossible to experience one's death objectively and still carry a tune."
-> — Woody Allen
+
+> "To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect."
+> — Joan Didion
