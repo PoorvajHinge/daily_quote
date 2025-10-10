@@ -51,5 +51,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "Ability will never catch up with the demand for it."
-> — Confucius
+
+> "If there is such a thing as a good marriage, it is because it resembles friendship rather than love."
+> — Michel de Montaigne
