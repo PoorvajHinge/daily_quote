@@ -53,5 +53,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "The root of suffering is attachment."
-> — The Buddha
+
+> "A friendship founded on business is better than a business founded on friendship."
+> — John Locke
