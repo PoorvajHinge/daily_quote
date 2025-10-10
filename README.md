@@ -52,5 +52,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "If there is such a thing as a good marriage, it is because it resembles friendship rather than love."
-> — Michel de Montaigne
+
+> "The root of suffering is attachment."
+> — The Buddha
