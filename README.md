@@ -54,5 +54,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "A friendship founded on business is better than a business founded on friendship."
-> — John Locke
+
+> "The smallest act of kindness is worth more than the grandest intention."
+> — Oscar Wilde
