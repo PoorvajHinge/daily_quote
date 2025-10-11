@@ -56,5 +56,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate."
-> — Zhuang Zhou
+
+> "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts."
+> — Alan Cohen
