@@ -55,5 +55,6 @@ This README is automatically updated three times a day with a new quote from [Qu
 
 
 
-> "The smallest act of kindness is worth more than the grandest intention."
-> — Oscar Wilde
+
+> "Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate."
+> — Zhuang Zhou
